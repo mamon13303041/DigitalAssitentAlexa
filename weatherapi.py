@@ -1,0 +1,1 @@
+OPENWEATHER = 'https://www.google.com/search?q={city}&oq={city}&aqs=0fc788d21b21a0d6b022e9256cea7ae9'
